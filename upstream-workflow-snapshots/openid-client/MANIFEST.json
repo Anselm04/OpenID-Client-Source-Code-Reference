@@ -1,0 +1,56 @@
+{
+  "source": "https://github.com/panva/openid-client.git",
+  "commit": "7eb59483b44241d843a96903e5c7a09a747f6b06",
+  "number_of_original_workflow_files": 8,
+  "original_ci_is_disabled": true,
+  "files": [
+    {
+      "upstream_path": ".github/workflows/actions.lock",
+      "reference_path": "upstream-workflow-snapshots/openid-client/.github/workflows/actions.lock",
+      "git_blob": "b6d199c5fc40ce3f5c7a221299c288d11656dcda",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/codeql.yml",
+      "reference_path": "upstream-workflow-snapshots/openid-client/.github/workflows/codeql.yml",
+      "git_blob": "3790816684c477d01390f0163d0104a86004abbd",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/conformance.yml",
+      "reference_path": "upstream-workflow-snapshots/openid-client/.github/workflows/conformance.yml",
+      "git_blob": "01010e974aa4827b22aa7945dd338aaa71efe9b1",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/lock.yml",
+      "reference_path": "upstream-workflow-snapshots/openid-client/.github/workflows/lock.yml",
+      "git_blob": "259c1fe14b85dd80d241c3789ab72f9c66ffe01b",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/release.yml",
+      "reference_path": "upstream-workflow-snapshots/openid-client/.github/workflows/release.yml",
+      "git_blob": "0531aaae68c7674746db7d0f36ba415f5640884a",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/retry.yml",
+      "reference_path": "upstream-workflow-snapshots/openid-client/.github/workflows/retry.yml",
+      "git_blob": "e663838eafac37c4856dc5dc50543aec52e77d4e",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/test.yml",
+      "reference_path": "upstream-workflow-snapshots/openid-client/.github/workflows/test.yml",
+      "git_blob": "3564301b092a02a9d9419620842b33d26e219f99",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/verify-lockfile.yml",
+      "reference_path": "upstream-workflow-snapshots/openid-client/.github/workflows/verify-lockfile.yml",
+      "git_blob": "8a26fc91e84dad7c065cc64eac38de4817ea2764",
+      "original_mode": "100644"
+    }
+  ]
+}
