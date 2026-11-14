@@ -1,0 +1,27 @@
+{
+  "upstream": "https://github.com/panva/openid-client.git",
+  "pinned_commit": "7eb59483b44241d843a96903e5c7a09a747f6b06",
+  "destination_main_sha": "44ec2ecbe3ed61afd3cabbc9eea654cbd85650f9",
+  "upstream_tracked_entries": 292,
+  "destination_tracked_entries": 286,
+  "missing_paths": [
+    ".github/workflows/actions.lock",
+    ".github/workflows/codeql.yml",
+    ".github/workflows/conformance.yml",
+    ".github/workflows/lock.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/retry.yml",
+    ".github/workflows/test.yml",
+    ".github/workflows/verify-lockfile.yml"
+  ],
+  "missing_path_count": 8,
+  "missing_upstream_ci_count": 8,
+  "missing_other_count": 0,
+  "mismatched_objects": [],
+  "mismatched_count": 0,
+  "extra_paths": [
+    ".github/workflows/audit-source-once.yml",
+    "TRILLIONAI_REFERENCE.md"
+  ],
+  "extra_count": 2
+}
