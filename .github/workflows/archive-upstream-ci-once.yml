@@ -1,0 +1,14 @@
+name: Preserve original upstream workflow code as inert reference
+on:
+  push:
+    paths:
+      - '.github/workflows/archive-upstream-ci-once.yml'
+permissions:
+  contents: write
+jobs:
+  archive:
+    uses: Anselm04/Macro-source-code-reference-/.github/workflows/reusable-inert-ci-archive.yml@main
+    with:
+      upstream_url: https://github.com/panva/openid-client.git
+      upstream_sha: 7eb59483b44241d843a96903e5c7a09a747f6b06
+      archive_slug: openid-client
